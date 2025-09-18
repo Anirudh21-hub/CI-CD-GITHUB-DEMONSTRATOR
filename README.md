@@ -78,3 +78,6 @@ To deploy this application to Heroku, follow these steps:
 ## Security Scan
 [![Bandit Security Scan](https://github.com/Anirudh21-hub/StockMarketMaven/workflows/Python%20Flask%20CI/CD/badge.svg?event=push)](https://github.com/Anirudh21-hub/StockMarketMaven/actions)
 [![Secret Scan](https://github.com/Anirudh21-hub/StockMarketMaven/workflows/Secret%20Scan/badge.svg)](https://github.com/Anirudh21-hub/StockMarketMaven/actions?query=workflow%3A%22Secret+Scan%22)
+
+## Result Demo
+https://drive.google.com/file/d/1laf8inCoHWQ_qA_U5wTdaEZbRRsDgXHd/view?usp=sharing
