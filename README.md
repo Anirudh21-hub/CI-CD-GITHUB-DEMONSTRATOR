@@ -86,4 +86,5 @@ https://drive.google.com/file/d/1laf8inCoHWQ_qA_U5wTdaEZbRRsDgXHd/view?usp=shari
 During this project,the importance of continuous integration and the value of incorporating security and quality gates early in the development lifecycle were demonstrated. Setting up the GitHub Actions pipeline, especially configuring tools like Bandit and Gitleaks, provided hands-on experience with DevSecOps practices. The most challenging aspect was resolving environment and compatibility issues with various Python packages across different Python versions.
 
 ## AI Usage
+
 This project was significantly aided by usage of ChatGPT. It was instrumental in generating the initial Flask application structure, setting up the GitHub Actions workflow YAML files, and creating the Procfile and runtime.txt for Heroku deployment. 
