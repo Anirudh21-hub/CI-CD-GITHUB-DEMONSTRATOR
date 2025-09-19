@@ -1,6 +1,7 @@
 # Python Flask CI/CD
 
 
+
 This project is a basic Python Flask web API demonstrating DevSecOps principles through an automated CI/CD pipeline with security and quality gates configured using GitHub Actions.
 
 ## CI/CD Pipeline
