@@ -79,8 +79,9 @@ To deploy this application to Heroku, follow these steps:
 [![Bandit Security Scan](https://github.com/Anirudh21-hub/StockMarketMaven/workflows/Python%20Flask%20CI/CD/badge.svg?event=push)](https://github.com/Anirudh21-hub/StockMarketMaven/actions)
 [![Secret Scan](https://github.com/Anirudh21-hub/StockMarketMaven/workflows/Secret%20Scan/badge.svg)](https://github.com/Anirudh21-hub/StockMarketMaven/actions?query=workflow%3A%22Secret+Scan%22)
 
-## Result Demo
+## Result Demo and link
 https://drive.google.com/file/d/1laf8inCoHWQ_qA_U5wTdaEZbRRsDgXHd/view?usp=sharing
+https://github.com/Anirudh21-hub/StockMarketMaven/actions
 
 ## Reflection
 During this project,the importance of continuous integration and the value of incorporating security and quality gates early in the development lifecycle were demonstrated. Setting up the GitHub Actions pipeline, especially configuring tools like Bandit and Gitleaks, provided hands-on experience with DevSecOps practices. The most challenging aspect was resolving environment and compatibility issues with various Python packages across different Python versions.
